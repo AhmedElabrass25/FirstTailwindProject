@@ -14,7 +14,7 @@ const Subscribe = () => {
             </h1>
           </div>
           <div className="row" style={{ justifyContent: "center" }}>
-            <div className="theInput w-[85%] md:w-[70%] flex items-center justify-center relative">
+            <div className="theInput w-[98%] md:w-[70%] flex items-center justify-center relative">
               <input
                 type="email"
                 id="email"
